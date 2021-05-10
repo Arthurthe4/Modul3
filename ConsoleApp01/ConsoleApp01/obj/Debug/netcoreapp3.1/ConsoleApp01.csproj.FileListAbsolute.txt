@@ -1,0 +1,13 @@
+C:\Users\jonas\OneDrive\Skrivebord\Modul3\ConsoleApp01\ConsoleApp01\bin\Debug\netcoreapp3.1\ConsoleApp01.exe
+C:\Users\jonas\OneDrive\Skrivebord\Modul3\ConsoleApp01\ConsoleApp01\bin\Debug\netcoreapp3.1\ConsoleApp01.deps.json
+C:\Users\jonas\OneDrive\Skrivebord\Modul3\ConsoleApp01\ConsoleApp01\bin\Debug\netcoreapp3.1\ConsoleApp01.runtimeconfig.json
+C:\Users\jonas\OneDrive\Skrivebord\Modul3\ConsoleApp01\ConsoleApp01\bin\Debug\netcoreapp3.1\ConsoleApp01.runtimeconfig.dev.json
+C:\Users\jonas\OneDrive\Skrivebord\Modul3\ConsoleApp01\ConsoleApp01\bin\Debug\netcoreapp3.1\ConsoleApp01.dll
+C:\Users\jonas\OneDrive\Skrivebord\Modul3\ConsoleApp01\ConsoleApp01\bin\Debug\netcoreapp3.1\ConsoleApp01.pdb
+C:\Users\jonas\OneDrive\Skrivebord\Modul3\ConsoleApp01\ConsoleApp01\obj\Debug\netcoreapp3.1\ConsoleApp01.csprojAssemblyReference.cache
+C:\Users\jonas\OneDrive\Skrivebord\Modul3\ConsoleApp01\ConsoleApp01\obj\Debug\netcoreapp3.1\ConsoleApp01.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Skrivebord\Modul3\ConsoleApp01\ConsoleApp01\obj\Debug\netcoreapp3.1\ConsoleApp01.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Skrivebord\Modul3\ConsoleApp01\ConsoleApp01\obj\Debug\netcoreapp3.1\ConsoleApp01.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Skrivebord\Modul3\ConsoleApp01\ConsoleApp01\obj\Debug\netcoreapp3.1\ConsoleApp01.dll
+C:\Users\jonas\OneDrive\Skrivebord\Modul3\ConsoleApp01\ConsoleApp01\obj\Debug\netcoreapp3.1\ConsoleApp01.pdb
+C:\Users\jonas\OneDrive\Skrivebord\Modul3\ConsoleApp01\ConsoleApp01\obj\Debug\netcoreapp3.1\ConsoleApp01.genruntimeconfig.cache
